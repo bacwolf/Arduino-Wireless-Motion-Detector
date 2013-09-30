@@ -11,10 +11,6 @@ Requirements
 ------------
 * VirtualWire: http://www.airspayce.com/mikem/arduino/
 
-TODO
-----
-* Add circuit schematics to this repo.
-
 License
 -------
 
